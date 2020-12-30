@@ -24,3 +24,8 @@ Blast functionality, can be used for any supplied sequence.
 Primer design could also be used for mulitple sequences?
 Interpret and analyse 
 
+ORF1ab polyprotein in the SARS-CoV-2
+~200bp difference between the different sequences. <i> SARS
+    SARS/COVID19 Similarity (%):  83.33837518066619
+MERS/COVID19 Similarity (%):  69.39141405757164
+MERS/COV Similarity (%):  69.93714496991697
