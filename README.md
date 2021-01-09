@@ -1,6 +1,6 @@
 # SARS-CoV-2 (COVID-19) Analysis 
 
-This Jupyter Notebook was written to provide a working example of how computer languages such as Python and packages such as Biopython can be utilised to analyse and interpret a genomic sequence using the example of the SARS-CoV-2 (COVID-19) genomic sequence. This type of analysis allows scientists to gleam further information which can be utilised in conjunction with experimental analyses'. It should be noted that this Jupyter Notebook can be adapted for any genomic sequence supplied in a fasta style format. 
+This Jupyter Notebook was written to provide a working example of how computer languages such as Python and packages such as Biopython can be utilised to analyse and interpret a genomic sequence using the example of the SARS-CoV-2 (COVID-19) genomic sequence. This has been further developed from work discussed during the Presentation Workshop. This type of analysis allows scientists to gleam further information which can be utilised in conjunction with experimental analyses'. It should be noted that this Jupyter Notebook can be adapted for any genomic sequence supplied in a fasta style format. 
 
 
 To run this Jupyter Notebook:
